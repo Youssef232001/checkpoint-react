@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+}
+.logobib {
+  max-width: 70px;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.charika {
+  margin-top: 50px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+#taswira1 {
+  margin-top: 15px;
+  max-width: 450px;
+  padding-bottom: 195px;
+}
+#taswira2 {
+  margin-left: 40px;
+  margin-top: 15px;
+  max-width: 350px;
+  padding-bottom: 180px;
+}
+#taswira3{
+  margin-top: 15px;
+  max-width: 450px;
+  padding-bottom: 195px;
+}
+.carousa {
+  max-width: 450px;
+  background-color: #dfdfdf;
+}
+#logo1 {
+  max-width: 700px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.ktiba {
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
